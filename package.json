@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-03-phonebook",
+  "name": "simple-image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://skiptomy.github.io/goit-react-hw-03-image-finder",
+  "homepage": "https://skiptomy.github.io/simple-image-finder/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
